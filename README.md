@@ -1,5 +1,3 @@
-![Data Science Assistant](https://via.placeholder.com/800x200.png?text=Data+Science+Assistant)
-
 # Data Science Assistant
 
 Welcome to the Data Science Assistant, an all-in-one Streamlit application designed to streamline your data science workflow. This tool offers functionalities for data ingestion, cleaning, exploratory data analysis (EDA), feature engineering, modeling, visualization, and even includes a chatbot to answer your data science queries.
