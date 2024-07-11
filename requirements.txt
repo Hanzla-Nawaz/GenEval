@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+firebase-admin
+plotly
+optuna
+dash
+dash-core-components
+dash-html-components
+joblib
+pytest
+crewai
+crewai-tools

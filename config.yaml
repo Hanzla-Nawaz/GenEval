@@ -1,0 +1,7 @@
+data:
+  raw_data_path: "data/raw"
+  processed_data_path: "data/processed"
+  firebase_config: "path_to_your_firebase_adminsdk.json"
+model:
+  save_path: "models/model.pkl"
+  hyperparameter_tuning_trials: 50
